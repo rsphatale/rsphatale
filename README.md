@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit.
-- 👀 I’m interested in learning data science.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in data analysis and data science.
+-     A python.
 - 💞️ I’m looking to collaborate on data science and data analysis projects.
 - 📫 You can reach me at rsphatale@gmail.com
 
