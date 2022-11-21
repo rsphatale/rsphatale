@@ -1,3 +1,1 @@
 - 👋 Hi, I’m Rohit.
-- 👀 I’m interested in data analysis and data science.
-- 💞️ I’m looking to collaborate on data science and data analysis projects.
